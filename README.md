@@ -69,6 +69,36 @@ As two of the ingredients are optional,milk & sugar, this can be achieved by cha
       ;(at milk_container target_location)
       ;(at sugar_container target_location)
     )
-```
     :effect (all_together)
   )
+```
+
+To handle the force for screwing and unscrewing the moka pot, the number of turns in the ":object" section of the problem file should be changed.
+
+```bash
+(:objects
+    coffee water milk sugar filter ready_coffee - object
+    closet1 water_tap closet3 closet4 target_location start_location - location
+    coffee_container water_glass milk_container  sugar_container grinder - container
+    bottom_reservoir bottom_chamber filter - part
+    spoon - tool
+    cup_red cup_blue - cups
+    beans not_beans - o_type
+    three_times - number
+    medium - degree
+    five_seconds - time
+  )
+```
+
+```bash
+    three_times - number   >>>   five_times - number
+```
+The level of heat and the time to wait are also changeable in the same way.
+
+```bash
+    medium - degree   >>>   high - degree
+```
+
+```bash
+    five_seconds - time   >>>   three_seconds - time
+```
