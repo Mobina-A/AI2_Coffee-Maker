@@ -1,5 +1,5 @@
 # AI2_Coffee-Maker
-### Installing & Running
+### Running
 ----------------------
 
 To run the program follow the next steps:
