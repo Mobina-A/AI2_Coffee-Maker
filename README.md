@@ -14,7 +14,7 @@ To run the program follow the next steps:
 ```bash
 Tab Files >> loads >> choose file >> click on load button
 ```
-5) Run it by solver "BFWS -- FF-parser version"
+4) Run it by solver "BFWS -- FF-parser version"
 ```bash
 Tab Solver >> choose Domain,Problem, and Solver >> click on Plan button
 ```
