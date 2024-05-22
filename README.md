@@ -18,4 +18,9 @@ Tab Files >> loads >> choose file >> click on load button
 ```bash
 Tab Solver >> choose Domain,Problem, and Solver >> click on Plan button
 ```
-![Tux, the Linux mascot](/Images/solver.png) 
+<p align="center">
+    <img src="Images/solver.png?raw=true" alt="Fig.1: solver" width="300" style="display:inline-block; margin: 0 10px;" />
+    <br />
+    <strong>Fig.1:</strong> Compute Plan
+</p>
+
