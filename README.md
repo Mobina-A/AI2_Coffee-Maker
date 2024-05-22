@@ -18,4 +18,4 @@ Tab Files >> loads >> choose file >> click on load button
 ```bash
 Tab Solver >> choose Domain,Problem, and Solver >> click on Plan button
 ```
-![Tux, the Linux mascot](/solver.png) 
+![Tux, the Linux mascot](/Images/solver.png) 
